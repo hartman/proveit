@@ -1,5 +1,6 @@
 /*
  * ProveIt ([[User:ProveIt GT]]) is a powerful GUI tool for viewing, adding, editing, and inserting references on Wikipedia.
+ * https://github.com/proveit-js/proveit
  *
  * Copyright 2008 - 2011
  *
@@ -19,6 +20,8 @@
  *
  * Includes icons from the Silk set (http://www.famfamfam.com/lab/icons/silk/), by Mark James, used under
  * the Creative Commons Attribution 3.0 License.
+ *
+ * 
  */
 
 /**
